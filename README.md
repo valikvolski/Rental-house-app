@@ -23,12 +23,6 @@ Rental House App - это полнофункциональное мобильн�
   - Firebase Authentication
   - Cloud Firestore
   - Firebase Storage
-- **Дополнительные библиотеки**:
-  - google_sign_in
-  - image_picker
-  - shared_preferences
-  - google_fonts
-  - shimmer
 
 ## Структура проекта
 
